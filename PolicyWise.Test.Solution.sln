@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolicyWise.Test.project", "TestProject\PolicyWise.Test.project.csproj", "{790F13C7-3D44-44F7-9A33-227A6A9E3722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{790F13C7-3D44-44F7-9A33-227A6A9E3722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790F13C7-3D44-44F7-9A33-227A6A9E3722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790F13C7-3D44-44F7-9A33-227A6A9E3722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790F13C7-3D44-44F7-9A33-227A6A9E3722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC25660E-CD1A-42FB-87BA-F45EBDBC274F}
+	EndGlobalSection
+EndGlobal
